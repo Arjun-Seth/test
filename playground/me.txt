@@ -1,5 +1,0 @@
-{{#user}
-Name: Arjun Kumar 
-Skills: HTML, CSS, Bootstrap, JS, React.js
-Email: arjun.drag007@gmail.com
-{{/user}}
